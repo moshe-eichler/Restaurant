@@ -1,0 +1,11 @@
+Appetizer 1
+p 24.5
+Main 1
+f 64.0
+Dessert 0
+SoftDrink 1
+o 10
+HotDrink 0
+Alchohol 2
+s 45
+t 65
